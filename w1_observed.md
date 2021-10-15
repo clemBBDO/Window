@@ -6,9 +6,10 @@ image: assets/images/culture_observed.jpg
 nav-menu: no
 ---
 
+<div id="main">
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/Window_Logo_White.png %}" alt="" data-position="center center" />
+		<img src="{% link assets/images/bigram.png %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<p>Every day, culture is captured in the uploading of 2.5 quintillion bytes of data. Some of this can be given structure and analysed, to tell us how culture is being created and how it’s being experienced.</p>
@@ -18,3 +19,4 @@ nav-menu: no
 		</div>
 	</section>
 </section>
+</div>
