@@ -3,7 +3,7 @@ layout: post
 title: Culture Observed
 description:
 image: assets/images/culture_observed.jpg
-nav-menu: no
+nav-menu: true
 ---
 
 Every day, culture is captured in the uploading of 2.5 quintillion bytes of data. Some of this can be given structure and analysed, to tell us how culture is being created and how it’s being experienced.
