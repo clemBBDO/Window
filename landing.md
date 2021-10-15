@@ -10,23 +10,24 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-
-	<a href="generic.html" class="image">
-		<img src="{% link assets/images/Window_Logo_White.png %}" alt="" data-position="center center" />
-	</a>
-
-	<div class="inner">
-		<header class="major">
-			<h2>Start your research watching people behave naturally</h2>
-		</header>
-		<p>Window incorporates natural language / image processing of content consumed and created by humans, search behaviours, qualitative recordings, and business interaction data, to draw a straight line from culture, to behaviour, to business outcomes. Window is a proprietary methodology backed by advanced analytical tools. 
-  Window is ever evolving and tactically bespoke for each client.</p>
-	</div>
-</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Window_Logo_White.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>Start your research watching people behave naturally</h2>
+				</header>
+				<p>Window incorporates natural language / image processing of content consumed and created by humans, search behaviours, qualitative recordings, and business interaction data, to draw a straight line from culture, to behaviour, to business outcomes. Window is a proprietary methodology backed by advanced analytical tools. Window is ever evolving and tactically bespoke for each client.</p>
+			</div>
+		</div>
+	</section>
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/first_panel.jpg %}" alt="" data-position="center center" />
