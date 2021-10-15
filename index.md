@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Window
+landing-title: 'Observe the creation and manifestation of culture'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Window incorporates natural language / image processing of content consumed and created by humans, search behaviours, qualitative recordings, and business interaction data, to draw a straight line from culture, to behaviour, to business outcomes. Window is a proprietary methodology backed by advanced analytical tools. Window is ever evolving and tactically bespoke for each client.
