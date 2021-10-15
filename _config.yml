@@ -3,7 +3,7 @@ title: Window
 subtitle: by Clemenger BBDO
 email:
 description: Observe the creation and manifestation of culture
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://clemenger.netlify.app # the base hostname & protocol for your site
 author:
 street_address:
