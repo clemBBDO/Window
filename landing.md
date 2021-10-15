@@ -2,7 +2,7 @@
 title: Welcome to Window
 layout: landing
 description: 'Observe the creation and manifestation of culture'
-image: assets/images/header.png
+image: assets/images/banner.jpg
 nav-menu: true
 ---
 
