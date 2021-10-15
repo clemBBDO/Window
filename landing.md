@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 
 	<section>
-		<a href="generic.html" class="image">
+		<a href="w1_observed.html" class="image">
 			<img src="{% link assets/images/culture_observed.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -45,7 +45,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="w2_manifested.html" class="image">
 			<img src="{% link assets/images/culture_manifested.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -61,7 +61,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="w3_commercial.html" class="image">
 			<img src="{% link assets/images/commercial_culture.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -86,7 +86,7 @@ nav-menu: true
 		</header>
 		<p>Each instance of Window is bespoke, because culture is too big and too nuanced to be one-size-fits-all. We have some example webapps available, however, that don't breach any confidentiality. Explore them to get a taste of what Window can provide.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://clemengerbbdo.com.au/en/contact-us" class="button next">Contact us</a></li>
 		</ul>
 	</div>
 </section>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Culture Manifested
 description:
 image: assets/images/culture_manifested.jpg

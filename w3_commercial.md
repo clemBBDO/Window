@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Commericial Culture
 description:
 image: assets/images/commercial_culture.jpg

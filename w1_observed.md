@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Culture Observed
 description:
 image: assets/images/culture_observed.jpg
