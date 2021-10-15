@@ -2,7 +2,7 @@
 title: Welcome to Window
 layout: landing
 description: 'Observe the creation and manifestation of culture'
-image: assets/images/banner.jpg
+image: assets/images/header.jpg
 nav-menu: true
 ---
 
@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/first_panel.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/first_panel.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/second_panel.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/second_panel.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -56,7 +56,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/third_panel.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/third_panel.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

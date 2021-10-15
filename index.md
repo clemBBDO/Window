@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Window
-landing-title: 'Observe the creation and manifestation of culture'
-description: null
+landing-title: Window
+description: 'Observe the creation and manifestation of culture'
 image: null
 author: null
 show_tile: false
