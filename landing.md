@@ -30,7 +30,7 @@ nav-menu: true
 
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/first_panel.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/culture_observed.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,14 +39,14 @@ nav-menu: true
 				</header>
 				<p>We monitor broad repositories of culture, like popular news sites and country focused subreddits. This is 'broad culture' - what's happening of relevance to our geographic location? We also monitor 'category culture' - the posts and images of fashion instagram influencers, for example. If it exists, we can analyse and monitor it.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="w1_observed.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/second_panel.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/culture_manifested.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,14 +55,14 @@ nav-menu: true
 				</header>
 				<p>What people read and what they say isn't necessarily behaviour. To understand whether the boundary to behaviour has been crossed, we monitor Google Trends with bespoke methodologies, and undertake quick-turnaround qualitative/quantitative exercises.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="w2_manifested.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/third_panel.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/commercial_culture.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 				</header>
 				<p>There's no point studying culture unless it drives growth for our clients. We use client web analytics and transactional data to determine if they are already benifitting from culture that has been observed and has manifested and, if not, where the opportunities are.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="w3_commercial.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
