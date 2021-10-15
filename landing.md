@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Window is where you start your research - watching people behave naturally</h2>
+			<h2>Start your research watching people behave naturally</h2>
 		</header>
 		<p>Window incorporates natural language / image processing of content consumed and created by humans, search behaviours, qualitative recordings, and business interaction data, to draw a straight line from culture, to behaviour, to business outcomes. Window is a proprietary methodology backed by advanced analytical tools. 
   Window is ever evolving and tactically bespoke for each client.</p>
@@ -47,7 +47,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Culture Manifested</h3>
 				</header>
-				<p>What people read and what they say isn't necessarily behaviour - yet. To understand whether the boundary to behaviour has been crossed, we monitor Google Trends with bespoke methodologies, and undertake quick-turnaround qual/quant exercises</p>
+				<p>What people read and what they say isn't necessarily behaviour. To understand whether the boundary to behaviour has been crossed, we monitor Google Trends with bespoke methodologies, and undertake quick-turnaround qualitative/quantitative exercises.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
