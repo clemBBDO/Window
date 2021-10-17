@@ -16,7 +16,7 @@ nav-menu: false
 
 	<section>
 		<div class="content">
-			<div class="inner">
+			<!-- <div class="inner"> -->
 				<!-- <header class="major"> -->
 				<!-- <h3>Commercial Culture</h3> -->
 				<!-- </header> -->
@@ -29,7 +29,7 @@ nav-menu: false
 				
 				<span class="image fit"><img src="{% link assets/images/bigram.png %}" alt="" /></span>
 				
-			</div>
+			<!-- </div> -->
 		</div>
 	</section>
 </section>
