@@ -1,7 +1,7 @@
 ---
 title: Culture Observed
 layout: landing
-description: 'Observe the creation and manifestation of culture'
+description:
 image: assets/images/culture_observed.jpg
 nav-menu: false
 ---
@@ -15,8 +15,8 @@ nav-menu: false
 <section id="two" class="spotlights">
 
 	<section>
-		<a href="w3_commercial.html" class="image">
-			<img src="{% link assets/images/commercial_culture.jpg %}" alt="" data-position="25% 25%" />
+		<a href="https://clemenger2.shinyapps.io/Q_Plus/" class="image">
+			<img src="{% link assets/images/commercial_culture.jpg %}" alt="" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -27,12 +27,10 @@ nav-menu: false
 				<p>We monitor and analyse all the major news outlets, critical subreddits, Twitter, and Instagram. All as standard. Each client category has its own intricacies, and we tailor our recordings for them. This might mean analysing industry press, or particular subreddits. We also draw on the power of other cultural monitoring tools, like AustraliaNOW, to further our coverage.</p>
 				<p>All these components are built in to custom webapps for interaction by any and all that want to undertake first-step analysis. For more complicated requests, our data science team are always happy to take a deeper dive.</p>
 				<ul class="actions">
-					<li><a href="https://clemenger2.shinyapps.io/Q_Plus/" class="button">Try Q Plus</a></li>
+					<li><a href="https://clemenger2.shinyapps.io/Q_Plus/" target="_blank" class="button">Try Q Plus</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 </section>
-
-
 </div>
