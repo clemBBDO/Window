@@ -15,8 +15,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 
 	<section>
-		<a href="https://clemenger2.shinyapps.io/Q_Plus/" class="image">
-			<span class="image fit"><img src="{% link assets/images/culture_observed.jpg %}" alt="" /></span>
+		<span class="image fit"><img src="{% link assets/images/bigram.jpg %}" alt="" /></span>
 		<div class="content">
 			<div class="inner">
 				<!-- <header class="major"> -->
