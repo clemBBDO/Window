@@ -15,7 +15,6 @@ nav-menu: false
 <section id="two" class="spotlights">
 
 	<section>
-		<span class="image fit"><img src="{% link assets/images/bigram.png %}" alt="" /></span>
 		<div class="content">
 			<div class="inner">
 				<!-- <header class="major"> -->
@@ -27,6 +26,9 @@ nav-menu: false
 				<ul class="actions">
 					<li><a href="https://clemenger2.shinyapps.io/Q_Plus/" target="_blank" class="button">Try Q Plus</a></li>
 				</ul>
+				
+				<span class="image fit"><img src="{% link assets/images/bigram.png %}" alt="" /></span>
+				
 			</div>
 		</div>
 	</section>
