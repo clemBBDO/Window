@@ -15,7 +15,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 
 	<section>
-		<span class="image fit"><img src="{% link assets/images/bigram.jpg %}" alt="" /></span>
+		<span class="image fit"><img src="{% link assets/images/bigram.png %}" alt="" /></span>
 		<div class="content">
 			<div class="inner">
 				<!-- <header class="major"> -->
