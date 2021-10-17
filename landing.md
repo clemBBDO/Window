@@ -67,7 +67,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Commercial Culture</h3>
 				</header>
-				<p>There's no point studying culture unless it drives growth for our clients. We use client web analytics and transactional data to determine if they are already benifitting from culture that has been observed and has manifested and, if not, where the opportunities are.</p>
+				<p>There's no point studying culture unless it drives growth for our clients. We use client web analytics and transactional data to determine if they are already benefiting from culture that has been observed and has manifested and, if not, where the opportunities are.</p>
 				<ul class="actions">
 					<li><a href="w3_commercial.html" class="button">Learn more</a></li>
 				</ul>
