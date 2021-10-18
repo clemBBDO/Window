@@ -16,7 +16,7 @@ nav-menu: false
 		<p>We also undertake quick panel and quant exercises to test hypotheses developed during the culture observed stage, when publicly available data won’t suffice.</p>
 		
 		<ul class="actions">
-			<li><a href="https://clemenger.shinyapps.io/ShareofSearch/" target="_blank" class="button">Try Share of Search Tool</a></li>
+			<li><a href="https://clemenger.shinyapps.io/Share_Of_Search_Explorer/" target="_blank" class="button">Try Share of Search Explorer</a></li>
 		</ul>
 
 		<span class="image fit"><img src="{% link assets/images/shareofsearch.png %}" alt="" /></span>
