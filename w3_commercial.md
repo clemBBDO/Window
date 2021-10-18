@@ -1,5 +1,5 @@
 ---
-title: Commericial Culture
+title: Commercial Culture
 layout: landing
 description:
 image: assets/images/commercial_culture.jpg
@@ -19,7 +19,7 @@ nav-menu: false
 			<li><a href="https://clemenger.shinyapps.io" target="_blank" class="button">Try Google Analytics Tool (Pending)</a></li>
 		</ul>
 
-		<span class="image fit"><img src="{% link assets/images/shareofsearch.png %}" alt="" /></span>
+		<!-- <span class="image fit"><img src="{% link assets/images/shareofsearch.png %}" alt="" /></span> -->
 
 		</div>
 	</section>
